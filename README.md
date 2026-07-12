@@ -32,6 +32,8 @@ This project analyzes historical sales data and predicts future sales using the 
 - MAE: 20,581.00
 - RMSE: 22,191.27
 - MAPE: 21.94%
-
+  
+## Live Demo
+https://salesforecastingambativenkatasatyanarayanamma-dtxffuzmoyksf8m8.streamlit.app/
 ## Author
 Ambati Venkata Satyanarayanamma
