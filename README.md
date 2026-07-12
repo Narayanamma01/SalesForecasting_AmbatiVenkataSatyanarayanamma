@@ -32,7 +32,7 @@ This project analyzes historical sales data and predicts future sales using the 
 - MAE: 20,581.00
 - RMSE: 22,191.27
 - MAPE: 21.94%
-- 
+  
 ## Google Colab Notebook
 https://colab.research.google.com/drive/1__FNwgTxAKrw6n8nxTGAlsuI-lw7gLdH
  
